@@ -13,3 +13,7 @@ uuid = Biblioteca para criação de ID dinamico.</br>
 npm run dev = Comando usado para rodar o projeto em ambiente de desenvolvimento.</br>
 npm run backend = Comando usado para rodar/subir o beckend.</br>
 npm run build = Comando para fazer a build do prejeto para Produção.</br>
+</br></br>
+https://github.com/edson-cauxeiro/costs-project/blob/main/src/img/Costs.PNG
+
+![alt text](https://github.com/edson-cauxeiro/costs-project/blob/main/src/img/Costs.PNG?raw=true)
